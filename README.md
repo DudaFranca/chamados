@@ -29,10 +29,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clone o projeto
-https://github.com/DudaFranca/verdanatech.git
+https://github.com/DudaFranca/chamados.git
 
 # Entre no diretório
-cd verdanatech
+cd chamados
 
 ```
 
